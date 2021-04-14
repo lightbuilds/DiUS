@@ -8,7 +8,7 @@ To clone this repository,
 1. Simply open up terminal on your machine and navigate to the directory you'd like to clone this repository.
 2. Then run
 
-```git clone https://github.com/lightbuilds/build-dius-checkout.git```
+```git clone https://github.com/lightbuilds/DiUS.git```
 
 You'll now have access to the repository. Please read on to install prerequisites to successfully run the project.
 
